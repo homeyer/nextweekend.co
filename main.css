@@ -61,6 +61,19 @@
     width: 100%;
 }
 
+.not-in-co {
+  margin-top: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+.not-in-co a {
+  color: white;
+}
+.not-in-co a:hover {
+  text-decoration: underline;
+}
+
 /* mixpanel overrides */
 #mc_embed_signup {
   background: none;
